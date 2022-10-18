@@ -1,0 +1,10 @@
+D:\SAVE.VS\EShop\BUS\bin\Debug\BUS.exe.config
+D:\SAVE.VS\EShop\BUS\bin\Debug\BUS.exe
+D:\SAVE.VS\EShop\BUS\bin\Debug\BUS.pdb
+D:\SAVE.VS\EShop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SAVE.VS\EShop\BUS\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+D:\SAVE.VS\EShop\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\SAVE.VS\EShop\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\SAVE.VS\EShop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SAVE.VS\EShop\BUS\obj\Debug\BUS.exe
+D:\SAVE.VS\EShop\BUS\obj\Debug\BUS.pdb
